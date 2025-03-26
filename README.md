@@ -1,14 +1,7 @@
 # POLYGOT_PDF
 
-This project combines two repositories for PDF language translation functionality.
 
----
-
-## Original Repository Content (PolyglotPDF-Verbion)
-
-# Verbion
-
-Verbion is a language translation tool designed to simplify the translation process of PDF documents. Leveraging the power of the mBART-large-50 model, Verbion provides an intuitive and user-friendly interface for translating texts between multiple languages.
+This is a language translation tool designed to simplify the translation process of PDF documents. Leveraging the power of the mBART-large-50 model, Verbion provides an intuitive and user-friendly interface for translating texts between multiple languages.
 
 ## Features
 - Upload PDFs for seamless text extraction.
