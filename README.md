@@ -32,7 +32,3 @@ Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUT
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Destination Repository Content (POLYGOT_PDF)
-
-# POLYGOT_PDF
