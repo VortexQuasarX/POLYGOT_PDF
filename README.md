@@ -28,7 +28,6 @@ This is a language translation tool designed to simplify the translation process
 ## Contributing
 Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ---
